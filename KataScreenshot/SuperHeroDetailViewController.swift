@@ -23,6 +23,7 @@ class SuperHeroDetailViewController: KataSuperHeroesViewController, SuperHeroDet
     override func viewDidLoad() {
         super.viewDidLoad()
         presenter.viewDidLoad()
+        print("commit")
     }
 
     func show(superHero: SuperHero?) {

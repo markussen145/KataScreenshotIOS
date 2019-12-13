@@ -4,9 +4,9 @@ PODS:
   - iOSSnapshotTestCase/Core (2.2.0)
   - iOSSnapshotTestCase/SwiftSupport (2.2.0):
     - iOSSnapshotTestCase/Core
-  - SDWebImage (5.2.2):
-    - SDWebImage/Core (= 5.2.2)
-  - SDWebImage/Core (5.2.2)
+  - SDWebImage (5.4.0):
+    - SDWebImage/Core (= 5.4.0)
+  - SDWebImage/Core (5.4.0)
 
 DEPENDENCIES:
   - iOSSnapshotTestCase
@@ -19,8 +19,8 @@ SPEC REPOS:
 
 SPEC CHECKSUMS:
   iOSSnapshotTestCase: 415bd84f9dbba4ff45fede49d800bc7332fbedac
-  SDWebImage: 5fcdb02cc35e05fc35791ec514b191d27189f872
+  SDWebImage: 5bf6aec6481ae2a062bdc59f9d6c1d1e552090e0
 
 PODFILE CHECKSUM: 4e1d485de68002c85a253702829cfc95d52324c6
 
-COCOAPODS: 1.8.1
+COCOAPODS: 1.8.4
